@@ -101,6 +101,3 @@ This enables risk-based retention strategies instead of binary predictions.
 <img width="1454" height="807" alt="Screenshot 2025-12-17 at 6 46 38 PM" src="https://github.com/user-attachments/assets/3ad153fb-cbf1-4a2d-8b24-8a975e14f540" />
 <img width="1380" height="519" alt="Screenshot 2025-12-17 at 6 46 59 PM" src="https://github.com/user-attachments/assets/908bd7aa-9e2e-4f74-9f4b-dfeb41ec7f14" />
 <img width="1423" height="483" alt="Screenshot 2025-12-17 at 6 47 12 PM" src="https://github.com/user-attachments/assets/b0cafc8d-3ff9-41c8-8d74-7da82b743cd8" />
-	•	🎨 Help you add screenshots & badges to the README
-
-Just tell me 👇
